@@ -1,0 +1,1 @@
+Evenly crops somewhat uneven dark borders around scanned images
